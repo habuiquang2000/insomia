@@ -1,0 +1,25 @@
+_id: req_23f7921a96194fbdbe6c45126515528e
+type: Request
+parentId: fld_a9ac3869d54344b8b9495ea46257f9b2
+modified: 1686885254086
+created: 1686881924648
+url: ""
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1686885245455
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
